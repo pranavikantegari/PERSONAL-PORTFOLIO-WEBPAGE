@@ -15,3 +15,7 @@ DESCRIPTION:For this project, I created a basic personal portfolio website using
 For example, you can write: (font-family: 'Courier New', Courier, monospace) within the pre tag.
 This makes any code or preformatted text on the site look much cleaner, which is especially useful if you’re showing off any technical work.
 Overall, this portfolio site is a great starting point. It’s simple, easy to customize, and looks professional without being over-designed. It’s also a solid foundation to build on if I want to add more features later, like a blog, contact form, or light/dark theme. For now, it’s a straightforward way to show the world who I am and what I do.
+
+![Image](https://github.com/user-attachments/assets/d87a9ea7-dc48-4ce2-a1b1-b85abee32f17)
+![Image](https://github.com/user-attachments/assets/90717464-f676-4386-a0d6-8b2daaa1ee9c)
+![Image](https://github.com/user-attachments/assets/c150f89f-62e4-4e40-b620-d37c09288ade)
